@@ -24,22 +24,23 @@ namespace week03
 
             bool check;
             int opt;
-            do
-            {
-                Console.WriteLine(@"Options are: 
-                1. Numbers Exercises
-                2. Strings Exercises
-                3. Arrays Exercises
-                4. LinkedLists Exercises
-                0. Exit Program");
-                check = int.TryParse(Console.ReadLine(),out opt);
-                if(opt<0 ||opt > 4)
-                {
-                    check = false;
-                    Console.WriteLine("\n Just 4 options ...");
-                }
+            //do
+            //{
+            //    Console.WriteLine(@"Options are: 
+            //    1. Numbers Exercises
+            //    2. Strings Exercises
+            //    3. Arrays Exercises
+            //    4. LinkedLists Exercises
+            //    0. Exit Program");
+            //    check = int.TryParse(Console.ReadLine(),out opt);
+            //    if(opt<0 ||opt > 4)
+            //    {
+            //        check = false;
+            //        Console.WriteLine("\n Just 4 options ...");
+            //    }
 
-            } while (!check);
+            //} while (!check);
+            opt = 4;
             switch (opt)
             {
                 case 1: HWJustNumbers.ShowScreen();
