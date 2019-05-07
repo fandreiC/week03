@@ -5,3 +5,10 @@ E:\cWork\WTSGit\Week03_Part02\obj\Debug\Week03_Part02.csprojAssemblyReference.ca
 E:\cWork\WTSGit\Week03_Part02\obj\Debug\Week03_Part02.csproj.CoreCompileInputs.cache
 E:\cWork\WTSGit\Week03_Part02\obj\Debug\Week03_Part02.exe
 E:\cWork\WTSGit\Week03_Part02\obj\Debug\Week03_Part02.pdb
+E:\cWork\WTSGit\Week03Part02\bin\Debug\Week03_Part02.exe.config
+E:\cWork\WTSGit\Week03Part02\bin\Debug\Week03_Part02.exe
+E:\cWork\WTSGit\Week03Part02\bin\Debug\Week03_Part02.pdb
+E:\cWork\WTSGit\Week03Part02\obj\Debug\Week03_Part02.csprojAssemblyReference.cache
+E:\cWork\WTSGit\Week03Part02\obj\Debug\Week03_Part02.csproj.CoreCompileInputs.cache
+E:\cWork\WTSGit\Week03Part02\obj\Debug\Week03_Part02.exe
+E:\cWork\WTSGit\Week03Part02\obj\Debug\Week03_Part02.pdb

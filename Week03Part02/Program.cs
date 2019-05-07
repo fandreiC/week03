@@ -48,7 +48,7 @@ namespace Week03_Part02
                     break;
                 case 3: textFile.ShowScreen();
                     break;
-                case 4:Afisare();
+                case 4:HW0301RMK.ShowScreen();
                     break;
             }
         }
