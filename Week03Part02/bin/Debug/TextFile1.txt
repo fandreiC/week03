@@ -1,0 +1,6 @@
+10
+20
+30
+40
+Suma numerelor de mai sus este : 100
+Suma numerelor de mai sus este : 100
